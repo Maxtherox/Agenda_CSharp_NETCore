@@ -4,7 +4,6 @@ C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosW
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\bin\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.runtimeconfig.dev.json
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\bin\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.dll
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\bin\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.pdb
-C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\obj\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.csproj.AssemblyReference.cache
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\obj\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.Form1.resources
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\obj\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.csproj.GenerateResource.cache
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\obj\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.GeneratedMSBuildEditorConfig.editorconfig
@@ -24,3 +23,4 @@ C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosW
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\bin\Debug\netcoreapp3.1\ZstdNet.dll
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\obj\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.csproj.CopyComplete
+C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\obj\Debug\netcoreapp3.1\DotnetCoreGravarDadosWMySQLWF.csproj.AssemblyReference.cache

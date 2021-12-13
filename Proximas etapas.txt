@@ -1,0 +1,4 @@
+-> vincular informações (nome, telefone etc..) a uma categoria especifica
+-> implementar chave estrangeira
+-> Implementar regras de validação
+-> dividir em camadas
