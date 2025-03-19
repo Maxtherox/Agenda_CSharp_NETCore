@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetCoreGravarDadosWMySQLWF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6e0bcb24d8ce48e98fc3fec2579ab6ffae9253b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetCoreGravarDadosWMySQLWF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetCoreGravarDadosWMySQLWF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

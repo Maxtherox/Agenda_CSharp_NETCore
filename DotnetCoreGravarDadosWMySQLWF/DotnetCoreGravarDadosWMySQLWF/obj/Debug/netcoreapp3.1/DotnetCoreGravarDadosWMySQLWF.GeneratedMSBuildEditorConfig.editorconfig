@@ -6,4 +6,6 @@ build_property.ApplicationHighDpiMode =
 build_property.ApplicationUseCompatibleTextRendering = 
 build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = DotnetCoreGravarDadosWMySQLWF
-build_property.ProjectDir = C:\Users\gui-r\source\repos\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\
+build_property.ProjectDir = C:\Users\Maxtr\Documents\vscode\Projetos_inuteis_2025\API_Csharp_WF__MySQL\DotnetCoreGravarDadosWMySQLWF\DotnetCoreGravarDadosWMySQLWF\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
